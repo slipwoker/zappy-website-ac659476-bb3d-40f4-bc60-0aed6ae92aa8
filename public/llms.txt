@@ -1,0 +1,104 @@
+# Carli — Generative Engine Optimization Map
+
+> An online store specializing in automotive products. The business focuses on selling car-related goods directly to consumers through an e-commerce platform.
+
+---
+
+## Pages
+
+### דף הבית
+https://carli-ac659476.zappy5.app
+גלו חנות אביזרי רכב ישראל עם מבחר ענק של מוצרים לרכב משפחתי. קניית אביזרים לרכב באינטרנט בקלות ובמהירות. הצטרפו לאלפי נהגים מרוצים עוד היום!
+
+### מדריך קנייה
+https://carli-ac659476.zappy5.app/buying-guide
+מתלבטים איזה מוצרים לרכב משפחתי מתאימים לכם? מדריך הקנייה שלנו חושף טיפים מקצועיים לבחירת אביזרים לרכב אונליין. קראו עכשיו וקבלו החלטה חכמה!
+
+### אודות
+https://carli-ac659476.zappy5.app/about
+Carli נולדה מאהבה אמיתית לעולם הרכב. אנו מביאים לכם מוצרי טיפוח לרכב פרימיום וציוד לרכב באיכות ללא פשרות. הכירו את הצוות שמחויב לנסיעה המושלמת שלכם.
+
+### צור קשר
+https://carli-ac659476.zappy5.app/contact
+יש שאלה על אביזרים לרכב אונליין? צוות Carli זמין לתת מענה אישי ומהיר. צרו קשר עוד היום ונשמח לעזור לכם למצוא את המוצרים לרכב משפחתי המושלמים.
+
+### Products
+https://carli-ac659476.zappy5.app/products
+המוצרים שלנו - Carli
+
+### Cart
+https://carli-ac659476.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://carli-ac659476.zappy5.app/checkout
+תשלום
+
+### Login
+https://carli-ac659476.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://carli-ac659476.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://carli-ac659476.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://carli-ac659476.zappy5.app/product/:slug
+פרטי המוצר - Carli
+
+### Category
+https://carli-ac659476.zappy5.app/category/:slug
+מוצרים - Carli
+
+### תודה - Carli
+https://carli-ac659476.zappy5.app/thank-you
+Carli - תודה - Carli
+
+## Legal & Policy
+
+### Privacy Policy
+https://carli-ac659476.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://carli-ac659476.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://carli-ac659476.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Carli
+An online store specializing in automotive products. The business focuses on selling car-related goods directly to consumers through an e-commerce platform.
+
+## Target Audience
+- חובבי רכב
+- אנשי מקצוע עירוניים
+- בעלי רכבי משפחה
+
+## Industry
+Automotive E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://carli-ac659476.zappy5.app/sitemap.xml
+- Robots: https://carli-ac659476.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://carli-ac659476.zappy5.app/llms-full.txt
+- Products (JSON): https://carli-ac659476.zappy5.app/products.json
+- Products (Google Merchant RSS): https://carli-ac659476.zappy5.app/product-feed.xml
