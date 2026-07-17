@@ -7,69 +7,69 @@
 ## Pages
 
 ### דף הבית
-https://carli-ac659476.zappy5.app
+https://example.com
 גלו חנות אביזרי רכב ישראל עם מבחר ענק של מוצרים לרכב משפחתי. קניית אביזרים לרכב באינטרנט בקלות ובמהירות. הצטרפו לאלפי נהגים מרוצים עוד היום!
 
 ### מדריך קנייה
-https://carli-ac659476.zappy5.app/buying-guide
+https://example.com/buying-guide
 מתלבטים איזה מוצרים לרכב משפחתי מתאימים לכם? מדריך הקנייה שלנו חושף טיפים מקצועיים לבחירת אביזרים לרכב אונליין. קראו עכשיו וקבלו החלטה חכמה!
 
 ### אודות
-https://carli-ac659476.zappy5.app/about
+https://example.com/about
 Carli נולדה מאהבה אמיתית לעולם הרכב. אנו מביאים לכם מוצרי טיפוח לרכב פרימיום וציוד לרכב באיכות ללא פשרות. הכירו את הצוות שמחויב לנסיעה המושלמת שלכם.
 
 ### צור קשר
-https://carli-ac659476.zappy5.app/contact
+https://example.com/contact
 יש שאלה על אביזרים לרכב אונליין? צוות Carli זמין לתת מענה אישי ומהיר. צרו קשר עוד היום ונשמח לעזור לכם למצוא את המוצרים לרכב משפחתי המושלמים.
 
 ### Products
-https://carli-ac659476.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - Carli
 
 ### Cart
-https://carli-ac659476.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://carli-ac659476.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://carli-ac659476.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://carli-ac659476.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://carli-ac659476.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://carli-ac659476.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - Carli
 
 ### Category
-https://carli-ac659476.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - Carli
 
 ### תודה - Carli
-https://carli-ac659476.zappy5.app/thank-you
+https://example.com/thank-you
 Carli - תודה - Carli
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://carli-ac659476.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://carli-ac659476.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://carli-ac659476.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -97,8 +97,8 @@ Automotive E-commerce
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://carli-ac659476.zappy5.app/sitemap.xml
-- Robots: https://carli-ac659476.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://carli-ac659476.zappy5.app/llms-full.txt
-- Products (JSON): https://carli-ac659476.zappy5.app/products.json
-- Products (Google Merchant RSS): https://carli-ac659476.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
